@@ -92,5 +92,5 @@ python3 bot.py
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To [Subinps](https://github.com/subinps) for Original EvaMaria.
+ 
  
