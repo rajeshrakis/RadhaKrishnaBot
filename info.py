@@ -20,14 +20,14 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 PORT = environ.get("PORT", "8080")
 
 # update channel via ads link
-UPDATES_CHANNEL = environ.get('UPDATES_CHANNEL', "Rkrishnaa_rk") #update channel username without @ hashtag
-HOW_TO_DOWNLOAD = "https://t.me/radhakrishna2017"
+UPDATES_CHANNEL = environ.get('UPDATES_CHANNEL', "HeartBeat_Offi") #update channel username without @ hashtag
+HOW_TO_DOWNLOAD = "https://t.me/HeartBeat_Offi"
 BROADCAST_AS_COPY = bool(environ.get("BROADCAST_AS_COPY", True))
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 0))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
-PICS = (environ.get('PICS', 'https://telegra.ph/file/7fb3df5d225aad2f13240.jpg')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/cd0c96965168b7e520b05.png')).split()
 
 # Admins, Channels & Users
 OWNER_ID = int(environ.get("OWNER_ID", ""))
@@ -47,7 +47,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', '')
 
 # Others
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'RadhaKrishna_1074')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'HeartBeat_Offi')
 SUPPORT_CHAT_ID = environ.get('SUPPORT_CHAT_ID', '')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), True)
