@@ -1,8 +1,8 @@
 # <h2 align="centre"><i><b>💖Radha Krishna Bot💝</i></b></h2>
 
-<p align="center"><a href="https://t.me/bjsodha"><img src="https://telegra.ph/file/e1a576851c3048a130aec.jpg" width="500"></a></p>
+<p align="center"><a href="https://t.me/rajeshrakis"><img src="https://telegra.ph/file/cd0c96965168b7e520b05.png" width="500"></a></p>
 
-### <b>Radha Krishna Bot With Pm Feature and 4GB Files Supporting Working One</b>
+### <b>𝐇𝐞𝐚𝐫𝐭𝐁𝐞𝐚𝐭 𝐌𝐨𝐯𝐢𝐞 Bot With Pm Feature and 4GB Files Supporting Working One</b>
 
 # Introduction
 
@@ -16,7 +16,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/bjsodha/RadhaKrishnaBot">
+<a href="https://heroku.com/deploy?template=https://github.com/rajeshrakis/RadhaKrishnaBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -25,7 +25,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Koyeb</summary>
 <p>
 <br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/bjsodha/RadhaKrishnaBot&branch=main&name=RadhaKrishnaBot">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/rajeshrakis/RadhaKrishnaBot&branch=main&name=RadhaKrishnaBot">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -43,7 +43,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/bjsodha/RadhaKrishnaBot
+git clone https://github.com/rajeshrakis/RadhaKrishnaBot
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -54,7 +54,7 @@ python3 bot.py
 
 ### Note
  - If You Need To Deploy YOur Own Bot 
- - Contact [<b>Bhimsinh Sodha 🇮🇳</b>](https://t.me/bjsodha) !
+ - Contact [<b>Rajesh Raki's</b>](https://t.me/rajeshrakis) !
 
 
 ### Required Variables
@@ -77,20 +77,20 @@ python3 bot.py
 ```
 💌 Title: <code>{file_name}</code>
 
-📤 <b>Uploaded By @Rkrishnaa_rk</b>
+📤 <b>Uploaded By @rajeshrakis</b>
   
 ```
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
 
-<a href="https://telegram.dog/rkep2018bot"><img src="https://img.shields.io/badge/Join-bj%20sodha-green.svg?style=for-the-badge&logo=Telegram">
+<a href="https://telegram.dog/HeartBeat_Offi"><img src="https://img.shields.io/badge/Join-bj%20sodha-green.svg?style=for-the-badge&logo=Telegram">
 
 
 ## CREATED BY
 
-* [Bhimsinh Sodha 🇮🇳](https://telegram.dog/bjsodha)
+* [RajeshRaki's](https://telegram.dog/rajeshrakis)
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To [Subinps](https://github.com/subinps) for Original EvaMaria.
- - Thanks To [@bjsodha😊](https://telegram.dog/bjsodha)
+ 
