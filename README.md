@@ -1,4 +1,4 @@
-# <h2 align="centre"><i><b>💖Radha Krishna Bot💝</i></b></h2>
+# <h2 align="centre"><i><b>💖𝐇𝐞𝐚𝐫𝐭𝐁𝐞𝐚𝐭 𝐌𝐨𝐯𝐢𝐞💝</i></b></h2>
 
 <p align="center"><a href="https://t.me/rajeshrakis"><img src="https://telegra.ph/file/cd0c96965168b7e520b05.png" width="500"></a></p>
 
@@ -6,7 +6,7 @@
 
 # Introduction
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+HeartBeat+Movie!;Created+by+@bjsodha!;A+simple+and+a+basic+Bot!;A+Advanced+AutoFilter+Bot;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+HeartBeat+Movie!;Created+by+@rajeshrakis!;A+simple+and+a+basic+Bot!;A+Advanced+AutoFilter+Bot;)
 </p>
 </h1>
 ## HɪɢʜLɪɢʜᴛ Fᴇᴀᴛᴜʀᴇs <b>
