@@ -1,9 +1,9 @@
 {
-    "name": "RadhaKrishnaBot",
+    "name": "𝐇𝐞𝐚𝐫𝐭𝐁𝐞𝐚𝐭 𝐌𝐨𝐯𝐢𝐞",
     "description": "The Telegram Autofilter Bot",
-    "logo": "https://telegra.ph/file/d0f2d215aadcf76d7933a.jpg",
-    "keywords": ["Telegram", "auto-filter", "bjsodha"],
-    "repository": "https://github.com/bjsodha/RadhaKrishnaBot",
+    "logo": "https://telegra.ph/file/cd0c96965168b7e520b05.png",
+    "keywords": ["Telegram", "auto-filter", "rajeshrakis"],
+    "repository": "https://github.com/rajeshrakis/RadhaKrishnaBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
