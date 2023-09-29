@@ -274,7 +274,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup([[
+        reply_markup=InlineKeyboardMarkup(
             InlineKeyboardButton('Delete', callback_data='close_data'),
             InlineKeyboardButton('Updates', url=f'https://t.me/{UPDATES_CHANNEL}')
         protect_content=True if pre == 'filep' else False
