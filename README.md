@@ -6,7 +6,7 @@
 
 # Introduction
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Radha+Krishna+Bot!;Created+by+@bjsodha!;A+simple+and+a+basic+Bot!;A+Advanced+AutoFilter+Bot;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+HeartBeat+Movie!;Created+by+@bjsodha!;A+simple+and+a+basic+Bot!;A+Advanced+AutoFilter+Bot;)
 </p>
 </h1>
 ## HɪɢʜLɪɢʜᴛ Fᴇᴀᴛᴜʀᴇs <b>
